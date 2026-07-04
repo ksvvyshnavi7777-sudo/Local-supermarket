@@ -1,0 +1,275 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DIPSAN\\source\\repos\\retailmanagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DA0DF9D0-283A-1939-A1D1-92A562F5F715}|retailmanagement.csproj|c:\\users\\dipsan\\source\\repos\\retailmanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA0DF9D0-283A-1939-A1D1-92A562F5F715}|retailmanagement.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA0DF9D0-283A-1939-A1D1-92A562F5F715}|retailmanagement.csproj|c:\\users\\dipsan\\source\\repos\\retailmanagement\\structure\\treenode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA0DF9D0-283A-1939-A1D1-92A562F5F715}|retailmanagement.csproj|solutionrelative:structure\\treenode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA0DF9D0-283A-1939-A1D1-92A562F5F715}|retailmanagement.csproj|c:\\users\\dipsan\\source\\repos\\retailmanagement\\structure\\inventorytree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA0DF9D0-283A-1939-A1D1-92A562F5F715}|retailmanagement.csproj|solutionrelative:structure\\inventorytree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA0DF9D0-283A-1939-A1D1-92A562F5F715}|retailmanagement.csproj|c:\\users\\dipsan\\source\\repos\\retailmanagement\\business\\itemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA0DF9D0-283A-1939-A1D1-92A562F5F715}|retailmanagement.csproj|solutionrelative:business\\itemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA0DF9D0-283A-1939-A1D1-92A562F5F715}|retailmanagement.csproj|c:\\users\\dipsan\\source\\repos\\retailmanagement\\business\\reportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA0DF9D0-283A-1939-A1D1-92A562F5F715}|retailmanagement.csproj|solutionrelative:business\\reportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA0DF9D0-283A-1939-A1D1-92A562F5F715}|retailmanagement.csproj|c:\\users\\dipsan\\source\\repos\\retailmanagement\\business\\purchaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA0DF9D0-283A-1939-A1D1-92A562F5F715}|retailmanagement.csproj|solutionrelative:business\\purchaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA0DF9D0-283A-1939-A1D1-92A562F5F715}|retailmanagement.csproj|c:\\users\\dipsan\\source\\repos\\retailmanagement\\business\\vendorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA0DF9D0-283A-1939-A1D1-92A562F5F715}|retailmanagement.csproj|solutionrelative:business\\vendorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA0DF9D0-283A-1939-A1D1-92A562F5F715}|retailmanagement.csproj|c:\\users\\dipsan\\source\\repos\\retailmanagement\\database\\retailcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA0DF9D0-283A-1939-A1D1-92A562F5F715}|retailmanagement.csproj|solutionrelative:database\\retailcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA0DF9D0-283A-1939-A1D1-92A562F5F715}|retailmanagement.csproj|c:\\users\\dipsan\\source\\repos\\retailmanagement\\entities\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA0DF9D0-283A-1939-A1D1-92A562F5F715}|retailmanagement.csproj|solutionrelative:entities\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA0DF9D0-283A-1939-A1D1-92A562F5F715}|retailmanagement.csproj|c:\\users\\dipsan\\source\\repos\\retailmanagement\\entities\\vendor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA0DF9D0-283A-1939-A1D1-92A562F5F715}|retailmanagement.csproj|solutionrelative:entities\\vendor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA0DF9D0-283A-1939-A1D1-92A562F5F715}|retailmanagement.csproj|c:\\users\\dipsan\\source\\repos\\retailmanagement\\entities\\purchaseline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA0DF9D0-283A-1939-A1D1-92A562F5F715}|retailmanagement.csproj|solutionrelative:entities\\purchaseline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA0DF9D0-283A-1939-A1D1-92A562F5F715}|retailmanagement.csproj|c:\\users\\dipsan\\source\\repos\\retailmanagement\\entities\\purchase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA0DF9D0-283A-1939-A1D1-92A562F5F715}|retailmanagement.csproj|solutionrelative:entities\\purchase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA0DF9D0-283A-1939-A1D1-92A562F5F715}|retailmanagement.csproj|c:\\users\\dipsan\\source\\repos\\retailmanagement\\entities\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA0DF9D0-283A-1939-A1D1-92A562F5F715}|retailmanagement.csproj|solutionrelative:entities\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA0DF9D0-283A-1939-A1D1-92A562F5F715}|retailmanagement.csproj|c:\\users\\dipsan\\source\\repos\\retailmanagement\\database\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA0DF9D0-283A-1939-A1D1-92A562F5F715}|retailmanagement.csproj|solutionrelative:database\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA0DF9D0-283A-1939-A1D1-92A562F5F715}|retailmanagement.csproj|c:\\users\\dipsan\\source\\repos\\retailmanagement\\retailmanagement.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{DA0DF9D0-283A-1939-A1D1-92A562F5F715}|retailmanagement.csproj|solutionrelative:retailmanagement.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "purchaseservice.cs",
+              "DocumentMoniker": "C:\\Users\\DIPSAN\\source\\repos\\retailmanagement\\business\\purchaseservice.cs",
+              "RelativeDocumentMoniker": "business\\purchaseservice.cs",
+              "ToolTip": "C:\\Users\\DIPSAN\\source\\repos\\retailmanagement\\business\\purchaseservice.cs",
+              "RelativeToolTip": "business\\purchaseservice.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-02T22:12:04.557Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "reportservice.cs",
+              "DocumentMoniker": "C:\\Users\\DIPSAN\\source\\repos\\retailmanagement\\business\\reportservice.cs",
+              "RelativeDocumentMoniker": "business\\reportservice.cs",
+              "ToolTip": "C:\\Users\\DIPSAN\\source\\repos\\retailmanagement\\business\\reportservice.cs",
+              "RelativeToolTip": "business\\reportservice.cs",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAYwH0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-02T22:12:25.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "itemservice.cs",
+              "DocumentMoniker": "C:\\Users\\DIPSAN\\source\\repos\\retailmanagement\\business\\itemservice.cs",
+              "RelativeDocumentMoniker": "business\\itemservice.cs",
+              "ToolTip": "C:\\Users\\DIPSAN\\source\\repos\\retailmanagement\\business\\itemservice.cs",
+              "RelativeToolTip": "business\\itemservice.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAowNYAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-02T22:11:27.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "inventorytree.cs",
+              "DocumentMoniker": "C:\\Users\\DIPSAN\\source\\repos\\retailmanagement\\structure\\inventorytree.cs",
+              "RelativeDocumentMoniker": "structure\\inventorytree.cs",
+              "ToolTip": "C:\\Users\\DIPSAN\\source\\repos\\retailmanagement\\structure\\inventorytree.cs",
+              "RelativeToolTip": "structure\\inventorytree.cs",
+              "ViewState": "AgIAAGgAAAAAAAAAAAAYwIUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-02T22:13:33.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "treenode.cs",
+              "DocumentMoniker": "C:\\Users\\DIPSAN\\source\\repos\\retailmanagement\\structure\\treenode.cs",
+              "RelativeDocumentMoniker": "structure\\treenode.cs",
+              "ToolTip": "C:\\Users\\DIPSAN\\source\\repos\\retailmanagement\\structure\\treenode.cs",
+              "RelativeToolTip": "structure\\treenode.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-02T22:13:48.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\DIPSAN\\source\\repos\\retailmanagement\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\DIPSAN\\source\\repos\\retailmanagement\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAHMBAAAAAAAAAAAAAHMBAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-02T21:59:44.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "vendorservice.cs",
+              "DocumentMoniker": "C:\\Users\\DIPSAN\\source\\repos\\retailmanagement\\business\\vendorservice.cs",
+              "RelativeDocumentMoniker": "business\\vendorservice.cs",
+              "ToolTip": "C:\\Users\\DIPSAN\\source\\repos\\retailmanagement\\business\\vendorservice.cs",
+              "RelativeToolTip": "business\\vendorservice.cs",
+              "ViewState": "AgIAAHIAAAAAAAAAAAAQwI4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-02T22:11:44.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "retailcontext.cs",
+              "DocumentMoniker": "C:\\Users\\DIPSAN\\source\\repos\\retailmanagement\\database\\retailcontext.cs",
+              "RelativeDocumentMoniker": "database\\retailcontext.cs",
+              "ToolTip": "C:\\Users\\DIPSAN\\source\\repos\\retailmanagement\\database\\retailcontext.cs",
+              "RelativeToolTip": "database\\retailcontext.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwDgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-02T22:12:48.385Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "department.cs",
+              "DocumentMoniker": "C:\\Users\\DIPSAN\\source\\repos\\retailmanagement\\entities\\department.cs",
+              "RelativeDocumentMoniker": "entities\\department.cs",
+              "ToolTip": "C:\\Users\\DIPSAN\\source\\repos\\retailmanagement\\entities\\department.cs",
+              "RelativeToolTip": "entities\\department.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-03T11:18:51.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "vendor.cs",
+              "DocumentMoniker": "C:\\Users\\DIPSAN\\source\\repos\\retailmanagement\\entities\\vendor.cs",
+              "RelativeDocumentMoniker": "entities\\vendor.cs",
+              "ToolTip": "C:\\Users\\DIPSAN\\source\\repos\\retailmanagement\\entities\\vendor.cs",
+              "RelativeToolTip": "entities\\vendor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-02T22:09:53.779Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "purchaseline.cs",
+              "DocumentMoniker": "C:\\Users\\DIPSAN\\source\\repos\\retailmanagement\\entities\\purchaseline.cs",
+              "RelativeDocumentMoniker": "entities\\purchaseline.cs",
+              "ToolTip": "C:\\Users\\DIPSAN\\source\\repos\\retailmanagement\\entities\\purchaseline.cs",
+              "RelativeToolTip": "entities\\purchaseline.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAxwC8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-02T22:10:54.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "purchase.cs",
+              "DocumentMoniker": "C:\\Users\\DIPSAN\\source\\repos\\retailmanagement\\entities\\purchase.cs",
+              "RelativeDocumentMoniker": "entities\\purchase.cs",
+              "ToolTip": "C:\\Users\\DIPSAN\\source\\repos\\retailmanagement\\entities\\purchase.cs",
+              "RelativeToolTip": "entities\\purchase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-02T22:10:31.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "item.cs",
+              "DocumentMoniker": "C:\\Users\\DIPSAN\\source\\repos\\retailmanagement\\entities\\item.cs",
+              "RelativeDocumentMoniker": "entities\\item.cs",
+              "ToolTip": "C:\\Users\\DIPSAN\\source\\repos\\retailmanagement\\entities\\item.cs",
+              "RelativeToolTip": "entities\\item.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-02T22:09:38.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "seeddata.cs",
+              "DocumentMoniker": "C:\\Users\\DIPSAN\\source\\repos\\retailmanagement\\database\\seeddata.cs",
+              "RelativeDocumentMoniker": "database\\seeddata.cs",
+              "ToolTip": "C:\\Users\\DIPSAN\\source\\repos\\retailmanagement\\database\\seeddata.cs",
+              "RelativeToolTip": "database\\seeddata.cs",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAYwHAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-02T22:13:05.595Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "retailmanagement.csproj",
+              "DocumentMoniker": "C:\\Users\\DIPSAN\\source\\repos\\retailmanagement\\retailmanagement.csproj",
+              "RelativeDocumentMoniker": "retailmanagement.csproj",
+              "ToolTip": "C:\\Users\\DIPSAN\\source\\repos\\retailmanagement\\retailmanagement.csproj",
+              "RelativeToolTip": "retailmanagement.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-07-02T22:03:01.413Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
