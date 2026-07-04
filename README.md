@@ -1,8 +1,3 @@
-Project Title
-Local Supermarket Management System for Small Shops
-CST2550 Reset Coursework – Middlesex University
-Student: Kallakuri Sri Varshitha Vyshnavi
-MDX ID: M01053500
 Project Overview
 This project is an individual submission for the CST2550 Reset Coursework.
 It implements a Local Supermarket Management System designed for small shops that currently use manual paper-based records.
@@ -136,3 +131,8 @@ R.Al-Mouaamen@mdx.ac.uk
 A.Bezan@mdx.ac.uk
 
 R.El-huni@mdx.ac.uk
+Project Title
+Local Supermarket Management System for Small Shops
+CST2550 Reset Coursework – Middlesex University
+Student: Kallakuri Sri Varshitha Vyshnavi
+MDX ID: M01053500
